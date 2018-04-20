@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Good health Good life</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_tablemass">tablemass</string>
+    <string name="title_activity_bmi">BMI</string>
+    <string name="title_activity_cal">cal</string>
+    <string name="title_activity_news">News</string>
+</resources>
